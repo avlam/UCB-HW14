@@ -1,8 +1,4 @@
-A1,No work< yr
-A2,No work >yr
-A3,Student
-A4,Retired
-A5,Unable to work
-A6,Employed
-A7,Homemaker
-A8,Self-employed
+Q1,What is your annual household income?
+Q2,How is your general health?
+Q3,"Do you currently use chewing tobacco, snuff, or snus?"
+Q4,What is your employment status?
